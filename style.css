@@ -1,0 +1,17 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+h1 {
+  color: green;
+}
+img {
+  width:30%;
+  height: auto;
+}
+p {
+    style="line-height:1.2;"
+}
